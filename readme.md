@@ -4,5 +4,5 @@
 
 Estas en una prueba para crear un archivo Readme de GitHub
 **Estas en una prueba para crear un archivo Readme de GitHub**
-~~ Estas en una prueba para crear un archivo Readme de GitHub~~
+~~Estas en una prueba para crear un archivo Readme de GitHub~~
 **Estas en una prueba para crear un archivo _Readme_ de GitHub**
